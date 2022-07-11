@@ -1,4 +1,7 @@
-# Md Yousuf Islam 
+<h1 align="center">Hi, I'm Yousuf Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center" text-align="center">
+  <img margin="0 auto" src="http://readme-typing-svg.herokuapp.com?lines=WordPress+full+stack+Developer" />
+</p>
 - 👋🏻 Hi there I'm Yousuf 
 - 🔭 I’m currently working on UpWork & Fiverr
 - 🌱 I’m currently learning Programming
