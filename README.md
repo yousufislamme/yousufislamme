@@ -2,9 +2,10 @@
 <p align="center" text-align="center">
   <img margin="0 auto" src="http://readme-typing-svg.herokuapp.com?lines=WordPress+full+stack+Developer" />
 </p>
+
 - 👋🏻 Hi there I'm Yousuf 
 - 🔭 I’m currently working on UpWork & Fiverr
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning WordPress Advance Theme Development & Laravel. 
 - 👯 I’m looking to collaborate on You
 - 💬 Ask me about if you have any problem
 
